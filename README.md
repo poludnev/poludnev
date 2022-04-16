@@ -1,7 +1,7 @@
  👋 Hi, I’m Roman @poludnev
-- 👀 I’m interested in programming (front-, backend, VBA scripts)
-- 🌱 I’m currently learning JS (React, Redux, Mode, Express), bootstrap.
-- 💞️ I’m looking for an apprenticeship/internship or part-time, or full-time remote job to develop my skills.
+- 👀 I’m a junior frontend programmer
+- 🌱 I’m currently up to React, React Native.
+- 💞️ I’m looking for a possition of Junior React Frontend developre
 - 📫 you can reach me by my Facebook (https://www.facebook.com/poludnev.roman/), LinkedIn (linkedin.com/in/roman-poludnev-0b3592a7) or by email (r.poludnev@gmail.com).
 
 <!---
